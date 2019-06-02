@@ -12,5 +12,5 @@ Requirements:
 
 ## View
 ![Example Case](iso.jpg)
-![Example Case](outside.jpg)
+![Example Case](inside.jpg)
 
