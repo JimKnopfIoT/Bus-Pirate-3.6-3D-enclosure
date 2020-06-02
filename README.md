@@ -11,11 +11,11 @@ Requirements:
 * 4 x 12mm M3 screws
 
 ## View
-![Example Case](iso.jpg)
-![Example Case](inside.jpg)
-![Example Case](20190727-DSC03865.jpg)
-![Example Case](20190727-DSC03866.jpg)
-![Example Case](20190727-DSC03867.jpg)
-![Example Case](20190727-DSC03868.jpg)
-![Example Case](20190727-DSC03872.jpg)
+<img src="iso.jpg" width="500" align="center"> 
+<img src="inside.jpg" width="500" align="center"> 
+<img src="20190727-DSC03865.jpg" width="500" align="center"> 
+<img src="20190727-DSC03866.jpg" width="500" align="center"> 
+<img src="20190727-DSC03867.jpg" width="500" align="center"> 
+<img src="20190727-DSC03868.jpg" width="500" align="center"> 
+<img src="20190727-DSC03872.jpg" width="500" align="center"> 
 
